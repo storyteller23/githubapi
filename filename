@@ -1,3 +1,1 @@
-xrandr -o left
-sleep 3
-xrandr -o left
+poweroff
