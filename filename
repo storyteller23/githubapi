@@ -1,1 +1,1 @@
-poweroff
+xrandr -o right
