@@ -1,1 +1,10 @@
+for var in 1 1 q q q q q q q q q q q q q q q q q q q q q q q q q q q
+do
+sleep 10
+
 firefox https://youtu.be/dQw4w9WgXcQ
+
+sleep 3
+
+firefox https://youtu.be/dQw4w9WgXcQ
+done
