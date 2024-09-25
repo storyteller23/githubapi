@@ -1,1 +1,2 @@
 xrandr -o left
+xrandr -o down
