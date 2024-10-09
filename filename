@@ -1,1 +1,2 @@
-xrandr -o left 
+firefox youtube.com
+xrandr -o normal
